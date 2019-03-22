@@ -1,16 +1,16 @@
 PODS:
-  - NavitiaSDKUI (1.8.0)
+  - TravelUI (2.0.0)
 
 DEPENDENCIES:
-  - NavitiaSDKUI (from `../`)
+  - TravelUI (from `../`)
 
 EXTERNAL SOURCES:
-  NavitiaSDKUI:
+  TravelUI:
     :path: "../"
 
 SPEC CHECKSUMS:
-  NavitiaSDKUI: 253dfd61fba8997881fc327988942ae806877d1d
+  TravelUI: 7e0eca7b97e51624e18e5b1693e600943d20ab51
 
-PODFILE CHECKSUM: 5084eb02cd0a2f6221a8f9b502cd004e19abc3fe
+PODFILE CHECKSUM: df73e0d3f433ef676c891464c0b32f685f52426a
 
 COCOAPODS: 1.5.3
