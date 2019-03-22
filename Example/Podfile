@@ -1,21 +1,21 @@
 platform :ios, '10.0'
 
-target 'NavitiaSDKUI-Example' do
+target 'TravelUI-Example' do
   use_frameworks!
 
-  pod 'NavitiaSDKUI', :path => '../'
+  pod 'TravelUI', :path => '../'
 
-  target 'NavitiaSDKUI-ExampleTests' do
+  target 'TravelUI-ExampleTests' do
     inherit! :search_paths
     
-    pod 'NavitiaSDKUI', :path => '../'
+    pod 'TravelUI', :path => '../'
     # Pods for testing
   end
 
-  target 'NavitiaSDKUI-ExampleUITests' do
+  target 'TravelUI-ExampleUITests' do
     inherit! :search_paths
     
-    pod 'NavitiaSDKUI', :path => '../'
+    pod 'TravelUI', :path => '../'
     # Pods for testing
   end
 
